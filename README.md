@@ -1,5 +1,5 @@
 # ICS-SEARCH-ENGINE-PROJECT
-Web Crawler Project
+Search engine for any web page on the ics.uci.edu domain.
 
 Code to:
   1. Crawl Links
